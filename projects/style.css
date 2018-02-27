@@ -4,6 +4,10 @@ body{
   font-family: 'Cabin', sans-serif;
 }
 
+body {
+background-image: linear-gradient(rgba(255, 255, 255, 0.65), transparent), url(http://i65.tinypic.com/727f4w.jpg);
+background-attachment: fixed;
+}
 
 body {
   background: #F2E4C9;
