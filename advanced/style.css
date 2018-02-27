@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Aclonica');
+
+body{
+  font-family: 'Aclonica', sans-serif;
+}
+
+body {
+background:#ffe6ff;
+}
+
+h1 {
+  color: #330033;
+}
+
+h2 {
+  color: purple;
+}
+
+h3 {
+  color: #ff00ff;
+}
+
+h4 {
+  color: #1a001a;
+}
+
+p {
+  font-size: 2rem;
+}
+
+
+
+
+ body {
+  font-size: 2rem;
+  font-family: 'Aclonica', sans-serif;
+  color: white;
+}
+
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.box {
+  display: inline-block;
+  width: 41rem;
+  height: 100vh;
+  background: #ff66ff;
+  padding: 20px;
+}
+
+.special {
+  display: inline-block;
+  width: 41rem;
+  height: 100vh;
+  background: #ff33ff;
+  padding: 20px;
+}
+
+header, footer {
+  background:#ffb3ff ;
+}
+  background:#ABB2B9 ;
+}
